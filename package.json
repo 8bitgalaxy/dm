@@ -1,0 +1,27 @@
+{
+  "name": "@8bitgalaxy/dm",
+  "version": "1.0.2",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiqsol/8bitgalaxy.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "tofid <andreyklochok@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "mobx": "^6.3.3"
+  },
+  "devDependencies": {},
+  "description": "test descr",
+  "bugs": {
+    "url": "https://github.com/hiqsol/8bitgalaxy/issues"
+  },
+  "homepage": "https://github.com/hiqsol/8bitgalaxy#readme"
+}
