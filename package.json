@@ -1,13 +1,13 @@
 {
   "name": "@8bitgalaxy/dm",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hiqsol/8bitgalaxy.git"
+    "url": "git+https://github.com/8bitgalaxy/dm.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
